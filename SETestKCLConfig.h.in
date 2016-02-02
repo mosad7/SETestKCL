@@ -1,0 +1,15 @@
+
+/************************************************************************
+ @Purpose:
+  The configured options and settings for the SETestKCL Project
+ ************************************************************************/
+
+
+#ifndef SETestKCL_CONFIG_H
+#define SETestKCL_CONFIG_H
+
+#define SETestKCL_VERSION_MAJOR @SETestKCL_VERSION_MAJOR@
+#define SETestKCL_VERSION_MINOR @SETestKCL_VERSION_MINOR@
+#define SETestKCL_VERSION_PATCH @SETestKCL_VERSION_PATCH@
+
+#endif // ART_CONFIG_H
